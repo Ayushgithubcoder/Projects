@@ -2,9 +2,6 @@ Quiz Website
 
 Welcome to the Quiz Website project! This project is an interactive, user-friendly quiz platform that allows users to test their knowledge on various topics.
 
-Live Demo
-[View Live Website](#) *(Replace with your link)*
-
 Features
 - Multiple-choice questions
 - Score tracking system
